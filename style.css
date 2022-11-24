@@ -1,0 +1,142 @@
+#card1{
+    height:90px;
+    background-color: yellow;
+    text-align: center;
+}
+
+#card2 .c2{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+}
+
+#cointainer{
+    height: 400px;
+    background-color: silver;
+    margin: auto;
+}
+#cointainer #box1{
+    height: 100px;
+    display: none;
+    background-color:brown;
+    margin: auto;
+}
+#cointainer #box2{
+    height: 100px;
+    display: none;
+    background-color:orange;margin: auto;
+}
+#cointainer #box3{
+    height: 100px;
+    display: none;
+    background-color:green;
+    margin: auto;
+}
+#cointainer #but{
+    margin: 0px 575px;
+}
+
+#card3{
+    height: 50px;
+    background-color: aqua;
+}
+ #up, #down{
+    padding: 5px;
+    text-align: center;
+    background-color:blueviolet;
+    border: solid 1px black;
+}
+ #down{
+    display: none;
+}
+
+#card4{
+    height: 210px;
+    background-color: silver;
+}
+#card4 #flow{
+    margin: 0px 600px;
+}
+#img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+#cont{
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+#cont .down, .up{
+    background-color: blue;
+}
+#cont .up{
+    background-color: red;
+    display: none;
+}
+#cont .up{
+    height: 200px;
+    background-color: red;
+    display: none;
+}
+
+#contt{
+    height: 100px;
+    background-color:gold;
+}
+#contt .hid{
+    margin: 0px 600px;
+}
+#coon{
+    height: 70px;
+    background-color: violet;
+    text-align: center;
+}
+
+#containne{
+    text-align: center;
+    height: 50px;
+    background-color: antiquewhite;
+}
+#ccon{
+    height: 150px;
+    background-color:red;
+}
+#coont{
+    height: 200px;
+    background-color: blue;
+}
+#qwer{
+    height: 100px;
+    background-color: aqua;
+}
+#asdf{
+    height: 100px;
+    background-color: gold;
+}
+#mnbv{
+    background-color: green;
+}
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  #lkjh{
+    height: 150px;
+    background-color: aquamarine;
+  }
+ 
+  #hjkl {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
